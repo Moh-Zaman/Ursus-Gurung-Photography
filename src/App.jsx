@@ -1,11 +1,12 @@
 import "./App.css";
-import NavbarDefault from "./Components/NavBar/Navbar";
-import "bootstrap/dist/css/bootstrap.min.css";
+import Footer from "./Components/Footer/Footer";
+import Navbar from "./Components/NavBar/Navbar";
 
 function App() {
   return (
     <div>
-      <NavbarDefault />
+      <Navbar />
+      <Footer />
     </div>
   );
 }
