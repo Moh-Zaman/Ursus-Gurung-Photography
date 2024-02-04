@@ -1,12 +1,12 @@
 import React from 'react'
 import Hero from '../../Components/Hero/Hero'
-import Carousel from '../../Components/Carousel/Carousel'
+import Gallery from '../../Components/Gallery/Gallery'
 
 function Home() {
   return (
     <div>
       <Hero />
-      <Carousel />
+      <Gallery />
     </div>
   )
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import "./Hero.css"
+import "./Hero.css";
 
 function Hero() {
   return (
@@ -7,10 +7,14 @@ function Hero() {
       <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12">
         <div className="mr-auto place-self-center lg:col-span-7">
           <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
-            Main shit
+            Freelance Photographer
           </h1>
           <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
-            Some shit
+            Passionate freelance photographer with a keen eye for capturing
+            moments that tell unique stories. Specializing in portrait, event,
+            and lifestyle photography, I bring creativity and dedication to
+            every project. Let me turn your special moments into timeless
+            memories through my lens.
           </p>
           <a
             href="#"

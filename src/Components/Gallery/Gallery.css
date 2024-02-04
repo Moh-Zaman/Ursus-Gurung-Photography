@@ -1,0 +1,11 @@
+.galleryContainer {
+  /* resize: both;
+  overflow: auto; */
+  transform: scale(0.95);
+  /* margin: 0px; */
+  padding: 20px;
+}
+
+.shadows {
+  box-shadow: 10px 12px;
+}
