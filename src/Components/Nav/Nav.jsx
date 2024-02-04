@@ -1,6 +1,6 @@
 import React from "react";
 
-function Navbar() {
+function Nav() {
 
   return (
     <nav className="bg-gray-800">
@@ -144,4 +144,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Nav;
